@@ -1,5 +1,5 @@
 -Hey, Nayla here!╰( ･ ᗜ ･ )<br>
-I'm an IT engineering student looking to gravitate my carreer towards all things related to Data engineering and Data Science; although Cybersecurity and Web Developing are other CS related subjects i'm extremely passionate about.
+I'm an IT engineering student looking to gravitate my career towards all things related to Data engineering and Data Science; although Cybersecurity and Web Developing are other CS related subjects i'm extremely passionate about.
 Here you will find info regarding both  my personal and professional projects.
 <br>
 (ESPANOL)<br>
